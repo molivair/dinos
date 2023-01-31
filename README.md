@@ -1,5 +1,5 @@
 # 🖌️ Dinos
-A collection of a hundred dinosaurs made by a hundred different artists.
+A collection of a hundred dinosaurs made with different art styles.
 
 ## 📦 Install
 Follow the steps below to make use of Dinos.
