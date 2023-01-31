@@ -2,7 +2,7 @@
 Here you can find the list of art that composes the collection.  
 Bear in mind that if you wish to contribute, here you'll find useful metadata to do so.
 
-| ID       | Rarity | Dinosaur                  | Artist                        | Style                         | Quantity | Generations |
+| MUID     | Rarity | Dinosaur                  | Artist                        | Style                         | Quantity | Generations |
 |----------|--------|---------------------------|-------------------------------|-------------------------------|----------|-------------|
 | 7cb63be4 | L      | Supersaurus               | Pablo Picasso                 | Cubism                        | 1        |             |
 | ebc97795 | L      | Microraptor               | Édouard Manet                 | Impressionism/Realism         | 1        |             |
