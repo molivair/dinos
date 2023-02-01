@@ -2,7 +2,7 @@
 Here you can find the list of art that composes the collection.  
 Bear in mind that if you wish to contribute, here you'll find useful metadata to do so.
 
-| MUID       | Rarity | Dinosaur                | Style                         | Quantity | Generations |
+| MUID     | Rarity | Dinosaur                  | Style                         | Quantity | Generations |
 |----------|--------|---------------------------|-------------------------------|----------|-------------|
 | 7cb63be4 | L      | Supersaurus               | Cubism                        | 1        |             |
 | ebc97795 | L      | Microraptor               | Impressionism/Realism         | 1        |             |
