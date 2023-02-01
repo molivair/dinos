@@ -25,7 +25,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | a9115641 | R      | Deinosuchus               | Contemporary Art              | 3        |             |
 | 4d13611b | R      | Pteranodon                | Contemporary Art              | 3        |             |
 | 899f895b | U      | Yuanmousaurus             | Impressionism                 | 5        | 5           |
-| c8786e82 | U      | Utahraptor                | Pre-Realist                   | 5        | 6           |
+| c8786e82 | U      | Utahraptor                | Pre-Realism                   | 5        | 6           |
 | 439b32fb | U      | Tsintaosaurus             | Renaissance                   | 5        | 16          |
 | d3984727 | U      | Allosaurus                | Fauvet                        | 5        | 2           |
 | 3fb70245 | U      | Ouranosaurus              | Surrealism                    | 5        | 18          |
