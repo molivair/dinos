@@ -10,7 +10,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | 63996950 | L      | Giganotosaurus            | Baroque                       | 1        |             | none      |
 | 693c5fdd | L      | Mosasaurus                | High Renaissance              | 1        |             | none      |
 | 2b601f9d | R      | Velociraptor              | Surrealism                    | 3        |             | none      |
-| a121ec97 | R      | Tyrannosaurus             | Baroque                       | 3        |             | none      |
+| a121ec97 | R      | Tyrannosaurus             | Baroque                       | 3        | 30          | raw       |
 | 101742f8 | R      | Triceratops               | Impressionism                 | 3        |             | none      |
 | bc5e7612 | R      | Stegosaurus               | Proto-Renaissance             | 3        |             | none      |
 | b87a4dc9 | R      | Spinosaurus               | Post-Impressionism            | 3        |             | none      |
