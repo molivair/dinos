@@ -12,7 +12,7 @@ git clone https://github.com/Molivair/dinos.git
 ## 🤝 Contribute
 Contributions and suggestions about how to improve this project are welcome!
 
-## 💚 Supporte
+## 💚 Support
 If you want to support our work you can do it buying our art.
 - [OpenSea](https://opensea.io/Molivair)
 
