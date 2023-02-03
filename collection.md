@@ -74,13 +74,13 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | 5144944e | C      | Mamenchisaurus            | Renaissance                   | 10       | 3           | raw       |
 | 977a4d0a | C      | Quaesitosaurus            | Romanticism                   | 10       | 2           | raw       |
 | b903d44c | C      | Sarcosuchus imperator     | Proto-Renaissance             | 10       | 2           | raw       |
-| 67c4ff99 | C      | Jaxartosaurus             | Romanticism                   | 10       |             | raw       |
+| 67c4ff99 | C      | Jaxartosaurus             | Romanticism                   | 10       | 6           | raw       |
 | 4de52373 | C      | Torosaurus                | Cave Painting                 | 10       | 4           | raw       |
 | fd57db9a | C      | Nothronychus              | Bad Painting                  | 10       | 2           | raw       |
 | 44252132 | C      | Zuniceratops Christopheri | Naif                          | 10       | 3           | raw       |
 | 0ef01ed3 | C      | Megalosaurus              | Art Brut                      | 10       | 4           | raw       |
 | 6da600af | C      | Pterodactylus             | Barbizon School               | 10       | 3           | raw       |
-| 854b41f7 | C      | Udanoceratops             | Dadaism                       | 10       |             | raw       |
+| 854b41f7 | C      | Udanoceratops             | Dadaism                       | 10       | 6           | raw       |
 | 84d2a957 | C      | Hesperosaurus             | Divisionism                   | 10       | 1           | raw       |
 | 404fc91f | C      | Gorgosaurus               | Macchiaioli                   | 10       | 1           | raw       |
 | 17c98999 | C      | Eoraptor                  | Egyptian                      | 10       | 5           | raw       |
@@ -93,7 +93,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | 17495cd2 | C      | Isisaurus                 | Realism                       | 10       | 2           | raw       |
 | 8c2a0158 | C      | Elasmosaurus              | Pencil Art                    | 10       | 11          | raw       |
 | e96a1fc4 | C      | Archaeopteryx             | Digital Art                   | 10       | 3           | raw       |
-| bbdbb72b | C      | Janenschia                | Charcoal Art                  | 10       |             | raw       |
+| bbdbb72b | C      | Janenschia                | Charcoal Art                  | 10       | 2           | raw       |
 | 96efb9f8 | C      | Pentaceratops             | Impressionism                 | 10       | 3           | raw       |
 | 3cb9532c | C      | Amargasaurus              | Byzantine Art                 | 10       | 9           | raw       |
 | 88ca6a02 | C      | Nipponosaurus             | Art Nuvau                     | 10       | 3           | raw       |
