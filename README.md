@@ -10,7 +10,8 @@ git clone https://github.com/Molivair/dinos.git
 ```
 
 ## 🤝 Contribute
-Contributions and suggestions about how to improve this project are welcome!
+Contributions and suggestions about how to improve this project are welcome!  
+Make sure to check out our [CONTRIBUTING.md](https://github.com/Molivair/dinos/blog/main/CONTRIBUTING.md) file first.
 
 ## 💚 Support
 If you want to support our work you can do it buying our art.
