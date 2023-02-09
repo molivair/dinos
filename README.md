@@ -1,4 +1,6 @@
 # 🖌️ Dinos
+![Cover](https://raw.githubusercontent.com/Molivair/dinos/main/assets/images/cover.png)
+
 A collection of a hundred dinosaurs made with different art styles.
 
 ## 📦 Install
