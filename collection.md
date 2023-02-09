@@ -78,7 +78,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | [4de52373][4de52373] | C      | Torosaurus                | Cave Painting                 | 10       | 4           | raw       |
 | [fd57db9a][fd57db9a] | C      | Nothronychus              | Bad Painting                  | 10       | 2           | raw       |
 | [44252132][44252132] | C      | Zuniceratops Christopheri | Naif                          | 10       | 3           | raw       |
-| [0ef01ed3][0ef01ed3] | C      | Megalosaurus              | Art Brut                      | 10       | 4           | raw       |
+| [0ef01ed3][0ef01ed3] | C      | Megalosaurus              | Art Brut                      | 10       | 7           | raw       |
 | [6da600af][6da600af] | C      | Pterodactylus             | Barbizon School               | 10       | 3           | raw       |
 | [854b41f7][854b41f7] | C      | Udanoceratops             | Dadaism                       | 10       | 6           | raw       |
 | [84d2a957][84d2a957] | C      | Hesperosaurus             | Divisionism                   | 10       | 1           | raw       |
