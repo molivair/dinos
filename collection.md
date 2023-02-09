@@ -92,7 +92,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | [200dd908][200dd908] | C      | Edmontonia                | Suprematism                   | 10       | 3           | raw       |
 | [17495cd2][17495cd2] | C      | Isisaurus                 | Realism                       | 10       | 2           | raw       |
 | [8c2a0158][8c2a0158] | C      | Elasmosaurus              | Pencil Art                    | 10       | 11          | raw       |
-| [e96a1fc4][e96a1fc4] | C      | Archaeopteryx             | Digital Art                   | 10       | 3 - 14      | candidate |
+| [e96a1fc4][e96a1fc4] | C      | Archaeopteryx             | Digital Art                   | 10       | 17          | candidate |
 | [bbdbb72b][bbdbb72b] | C      | Janenschia                | Charcoal Art                  | 10       | 2           | raw       |
 | [96efb9f8][96efb9f8] | C      | Pentaceratops             | Impressionism                 | 10       | 3           | raw       |
 | [3cb9532c][3cb9532c] | C      | Amargasaurus              | Byzantine Art                 | 10       | 9           | raw       |
