@@ -7,7 +7,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | [7cb63be4][00000000] | L      | Supersaurus               | Cubism                        | 1        |             | none      |
 | [ebc97795][00000000] | L      | Microraptor               | Impressionism/Realism         | 1        |             | none      |
 | [cde1a3df][00000000] | L      | Kentrosaurus              | High Renaissance              | 1        |             | none      |
-| [63996950][00000000] | L      | Giganotosaurus            | Baroque                       | 1        |             | none      |
+| [63996950][00000000] | L      | Giganotosaurus            | Baroque                       | 1        | 1           | none      |
 | [693c5fdd][00000000] | L      | Mosasaurus                | High Renaissance              | 1        |             | none      |
 | [2b601f9d][00000000] | R      | Velociraptor              | Surrealism                    | 3        |             | none      |
 | [a121ec97][a121ec97] | R      | Tyrannosaurus             | Baroque                       | 3        | 30          | raw       |
