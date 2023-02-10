@@ -15,5 +15,5 @@ Not sharing it will fall under penalty of removing copyright from the shared ass
 In the absence of a community vote or tie, it is Molivair who chooses who ends up in pure state.
 
 ## FAQ
-Q: What does pure state mean?
-A: When talking about pure state, we mean an asset for which we'll mint an NFT.
+Q: What does pure state mean?  
+A: When talking about pure state, we mean an asset for which we'll mint an NFT.  
