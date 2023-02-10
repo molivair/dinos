@@ -92,7 +92,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | [200dd908][200dd908] | C      | Edmontonia                | Suprematism                   | 10       | 3           | raw       |
 | [17495cd2][17495cd2] | C      | Isisaurus                 | Realism                       | 10       | 2           | raw       |
 | [8c2a0158][8c2a0158] | C      | Elasmosaurus              | Pencil Art                    | 10       | 11          | raw       |
-| [e96a1fc4][e96a1fc4] | C      | Archaeopteryx             | Digital Art                   | 10       | 3           | raw       |
+| [e96a1fc4][e96a1fc4] | C      | Archaeopteryx             | Digital Art                   | 10       | 17          | pure      |
 | [bbdbb72b][bbdbb72b] | C      | Janenschia                | Charcoal Art                  | 10       | 2           | raw       |
 | [96efb9f8][96efb9f8] | C      | Pentaceratops             | Impressionism                 | 10       | 3           | raw       |
 | [3cb9532c][3cb9532c] | C      | Amargasaurus              | Byzantine Art                 | 10       | 9           | raw       |
@@ -177,7 +177,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 [200dd908]: https://github.com/molivair/dinos/tree/main/raw/200dd908
 [17495cd2]: https://github.com/molivair/dinos/tree/main/raw/17495cd2
 [8c2a0158]: https://github.com/molivair/dinos/tree/main/raw/8c2a0158
-[e96a1fc4]: https://github.com/molivair/dinos/tree/main/raw/e96a1fc4
+[e96a1fc4]: https://github.com/molivair/dinos/tree/main/pure/e96a1fc4
 [bbdbb72b]: https://github.com/molivair/dinos/tree/main/raw/bbdbb72b
 [96efb9f8]: https://github.com/molivair/dinos/tree/main/raw/96efb9f8
 [3cb9532c]: https://github.com/molivair/dinos/tree/main/raw/3cb9532c
