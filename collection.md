@@ -12,7 +12,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | [2b601f9d][00000000] | R      | Velociraptor              | Surrealism                    | 3        |             | none      |
 | [a121ec97][a121ec97] | R      | Tyrannosaurus             | Baroque                       | 3        | 30          | raw       |
 | [101742f8][00000000] | R      | Triceratops               | Impressionism                 | 3        |             | none      |
-| [bc5e7612][00000000] | R      | Stegosaurus               | Proto-Renaissance             | 3        |             | none      |
+| [bc5e7612][00000000] | R      | Stegosaurus               | Proto-Renaissance             | 3        | 10          | none      |
 | [b87a4dc9][00000000] | R      | Spinosaurus               | Post-Impressionism            | 3        |             | none      |
 | [e46760f3][00000000] | R      | Parasaurolophus           | Spatialism                    | 3        |             | none      |
 | [91e7ab01][00000000] | R      | Iguanodon                 | Baroque                       | 3        |             | none      |
