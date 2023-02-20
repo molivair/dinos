@@ -21,7 +21,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 | [4feb6701][4feb6701] | R      | Carnotaurus               | Impressionism                 | 3        | 12          | raw       |
 | [9fd58fbb][00000000] | R      | Compsognathus             | Surrealism/Naive              | 3        |             | none      |
 | [5004317a][00000000] | R      | Brachiosaurus             | Post Impressionism            | 3        |             | none      |
-| [9df9cb06][00000000] | R      | Ankylosaurus              | Manierism                     | 3        |             | none      |
+| [9df9cb06][9df9cb06] | R      | Ankylosaurus              | Manierism                     | 3        | 15          | raw       |
 | [a9115641][00000000] | R      | Deinosuchus               | Contemporary Art              | 3        |             | none      |
 | [4d13611b][00000000] | R      | Pteranodon                | Contemporary Art              | 3        |             | none      |
 | [899f895b][899f895b] | U      | Yuanmousaurus             | Impressionism                 | 5        | 5           | raw       |
@@ -110,6 +110,7 @@ Bear in mind that if you wish to contribute, here you'll find useful metadata to
 [63996950]: https://github.com/molivair/dinos/tree/main/raw/63996950
 [a121ec97]: https://github.com/molivair/dinos/tree/main/raw/a121ec97
 [4feb6701]: https://github.com/molivair/dinos/tree/main/raw/4feb6701
+[9df9cb06]: https://github.com/molivair/dinos/tree/main/raw/9df9cb06
 [899f895b]: https://github.com/molivair/dinos/tree/main/raw/899f895b
 [c8786e82]: https://github.com/molivair/dinos/tree/main/raw/c8786e82
 [439b32fb]: https://github.com/molivair/dinos/tree/main/raw/439b32fb
