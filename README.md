@@ -1,7 +1,7 @@
 # Dinos
 ![Cover](https://raw.githubusercontent.com/Molivair/dinos/main/assets/images/cover.png)
 
-A collection of a hundred dinosaurs made with different art styles.
+Collection of a hundred dinosaurs made with different art styles.
 
 ## Contents
 - [Installation](#installation)
@@ -20,7 +20,7 @@ git clone https://github.com/molivair/dinos.git
 ```
 
 ## Usage
-In order to use this project, just click the use as template in the repository's page.
+404
 
 ## Resources
 404
@@ -38,4 +38,4 @@ Choose what you find more suitable for you:
 </a>
 
 ## License  
-This repository is licensed under [CC BY-NC-4.0](https://github.com/Molivair/dinos/blob/main/LICENSE).
+This repository is licensed under [CC BY-NC-4.0](https://github.com/molivair/dinos/blob/main/LICENSE).
